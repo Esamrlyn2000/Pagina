@@ -1,0 +1,52 @@
+#logo{
+    width: 200px;
+    height: 100px;
+}
+
+header{
+    background-color: #ffe4c4;
+}
+
+nav{
+    background-color: burlywood;
+}
+
+
+
+a{
+    color: blue;
+    text-decoration: none;
+}
+
+a:hover{
+    color: chartreuse;
+    text-decoration: overline;
+    background-color: blue;
+}
+
+img{
+    width: 300px;
+    height: 200px;
+
+}
+
+.fempleado{
+    text-align: center;
+}
+
+.sobre{
+    
+}
+
+.box {
+    margin-left: 10px;
+    border: 5px solid darkblue;
+    height: 350px;
+    width: 300px;
+    float: left;
+  }
+
+#nelson{
+   
+
+}
